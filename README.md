@@ -11,7 +11,7 @@ Link:
 * [Normalizing the Data](#normaling-the-data)
 * [Problems and Hurdles](#problems-and-hurdles)
 * [Technologies Used](#technologies-used)
-* [Sources](#sources)C
+* [Sources](#sources)
 * [Conclusion](#conclusion)
 
 ## Motivation:
@@ -36,11 +36,13 @@ What are some of the factors that may have lead to higher or lower percent chang
 What are some of the factors that may have lead to higher or lower percent change?
 
 ## Normalizing the Data
-I used multiple dataset based on the governments healthcare spending per person from 1960 to 2022. And also data sets for Employer-Sponsored health insurance the ranged from 1999 to 2023 for single coverage and family coverage. I also wanted to bring in the life expectancy to see how it would correlate with the price/cost of healthcare insurance.
+I used multiple dataset based on the governments healthcare spending per person from 1960 to 2022. And also data sets for Employer-Sponsored health insurance the ranged from 1999 to 2023 for single coverage and family coverage. 
+I also wanted to bring in the life expectancy to see how it would correlate with the price/cost of healthcare insurance.
 
 
 ## Problems and Hurdles
-It was a challenge to clean and organize data in Python for some of the dataset. format and that required some calculation in python to convert it to readable value. 
+Trying to find historical data on the cost of healthcare insurance, life expectancy, single and family coverage breakdown, and average household income. 
+Also trying to choose the many versions of how household incomes are calculated(went with the one that show dollars in that year vs 2022 dollars). Cleaning some of the infomation in python also took some time.
 
 ## Technologies Used
 1) Excel - for pulling in some of the data and putting in csv format
