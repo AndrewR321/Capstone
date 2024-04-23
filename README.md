@@ -30,10 +30,8 @@ Factors include:
 4) What percent does the cost of single coverage and family coverage healthcare insurance make up of the average US household income?**
 5) How does the change in cost of healthcare insurance compare to the change in average US household income? 
 6) How does inflation % compare to the cost of healthcare insurance?**
-7) 
-8) Is there correlation between annual healthcare cost and the life expectancy?
-What are some of the factors that may have lead to higher or lower percent change?
-What are some of the factors that may have lead to higher or lower percent change?
+7) Is there correlation between annual healthcare cost and the life expectancy, unemployment rate, inflation rate, or US household income?
+
 
 ## Normalizing the Data
 I used multiple dataset based on the governments healthcare spending per person from 1960 to 2022. And also data sets for Employer-Sponsored health insurance the ranged from 1999 to 2023 for single coverage and family coverage. 
