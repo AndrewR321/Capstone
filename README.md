@@ -1,11 +1,11 @@
 # Heathcare Insurance Cost Analysis
 
-## Power BI Dashboard
+## Power BI Charts
 Link: 
 
 
 ## Table of Contents
-* [Power BI Dashboard](#Power BI Dashboard)
+* [Power BI Charts](#Power-BI-Charts)
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#normaling-the-data)
