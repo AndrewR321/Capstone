@@ -18,6 +18,7 @@ Link:
 After working in the healthcare field for a number of years and seeing the increase in healthcare premiums go up. Looking at my paystub every two weeks to see how much of my income goes to healthcare insurance and thinking that's a nice car payment. I wanted to look further into the cost and find data that may show a reason why.
 
 Factors include:
+- US Average Household Income
 - Inflation
 - Life Expectancy
 - Unemployment
