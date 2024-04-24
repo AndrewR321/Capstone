@@ -1,7 +1,7 @@
 # Heathcare Insurance Cost Analysis
 
 ## Power BI Charts
-Link: 
+Link: https://app.powerbi.com/view?r=eyJrIjoiYTIzMmE0MDQtZjczNy00OGVkLTljZmYtYWI3NzI4ZmY2ZGNjIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 
 ## Table of Contents
@@ -25,12 +25,12 @@ Factors include:
 
 
 ## Questions:
-1) How does Single coverage compare to Family coverage annual cost?**
-2) What is the percent change in single coverage vs family coverage? And dollar change?**
+1) How does Single coverage compare to Family coverage annual cost?
+2) What is the percent change in single coverage vs family coverage? And dollar change?
 3) What year have the highest and lowest increase in cost in dollars and percentage?
-4) What percent does the cost of single coverage and family coverage healthcare insurance make up of the average US household income?**
+4) What percent does the cost of single coverage and family coverage healthcare insurance make up of the average US household income?
 5) How does the change in cost of healthcare insurance compare to the change in average US household income? 
-6) How does inflation % compare to the cost of healthcare insurance?**
+6) How does inflation % compare to the cost of healthcare insurance?
 7) Is there correlation between annual healthcare cost and the life expectancy, unemployment rate, inflation rate, or US household income?
 
 
